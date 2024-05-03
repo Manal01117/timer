@@ -27,7 +27,7 @@ body {
 }
 
 .container {
-    max-width: 600px;
+    max-width: 1000px;
     margin: 60px auto;
     text-align: center;
     position: relative; /* Added to position the timer */
