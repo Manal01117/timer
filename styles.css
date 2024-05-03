@@ -10,20 +10,20 @@ body {
     position: absolute;
     top: 10px; /* Adjust as needed */
     left: 10px; /* Adjust as needed */
-    max-width: 250px; /* Adjust the size of the logos */
+    max-width: 280px; /* Adjust the size of the logos */
 }
 
 .logo-right {
     position: absolute;
     top: 10px; /* Adjust as needed */
     right: 10px; /* Adjust as needed */
-    max-width: 250px; /* Adjust the size of the logos */
+    max-width: 280px; /* Adjust the size of the logos */
 }
 
 .logo-center {
     position: center;
     margin-top: 20px;
-    max-width: 400px; /* Adjust the size of the logos */
+    max-width: 500px; /* Adjust the size of the logos */
 }
 
 .container {
