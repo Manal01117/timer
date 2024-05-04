@@ -16,8 +16,8 @@ function startTimer(duration) {
         if (timer > 0) {
             timerDisplay = hours + ":" + minutes + ":" + seconds;
         } else {
-            //timerDisplay = "End of the Hackathon";
-            timerDisplay = "OPENDAYAS\n10th Edition\n04-05 Mai 2024";
+            timerDisplay = "End of the Hackathon";
+            //timerDisplay = "OPENDAYAS\n10th Edition\n04-05 Mai 2024";
             clearInterval(interval);
             // Play the alarm sound
             playAlarm();
