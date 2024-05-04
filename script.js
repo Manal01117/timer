@@ -58,6 +58,6 @@ setInterval(checkTimeLeft, 1000); // Check every second
 // Start the timer when the page loads
 window.onload = function() {
     // Set the duration in hours
-    var hours = 0.005; // Change this to your desired duration
+    var hours = 14; // Change this to your desired duration
     startTimer(hours);
 };
